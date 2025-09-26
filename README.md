@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @haydenhayes214
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Hayden Hayes</h1>
+<h3 align="center">I am CS Student Currently at the University of Texas at Dallas</h3>
 
-<!---
-haydenhayes214/haydenhayes214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m currently working on a [One Piece Progress Tracking App](https://github.com/haydenhayes214/OnePiece-Tracker)
+
+- 📫 How to reach me **haydenhayes214@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lw6e9ZmmRJ_f7g5FCC8g9zfe8jpZs8Yy/view?usp=sharing](https://drive.google.com/file/d/1lw6e9ZmmRJ_f7g5FCC8g9zfe8jpZs8Yy/view?usp=sharing)
