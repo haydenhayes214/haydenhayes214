@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hayden Hayes</h1>
 <h3 align="center">I am CS Student Currently at the University of Texas at Dallas</h3>
 
-- I’m currently working on a tbd...
+- I’m currently working on Google Chrome extension called TagIt
   
 - I have a big interest in Cloud Computing and backend development
   
