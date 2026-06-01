@@ -3,7 +3,7 @@
 
 - I’m currently working on Google Chrome extension called TagIt
   
-- I have a big interest in Cloud Computing and backend development
+- I have a big interest in Software Engineering
   
 - 📫 How to reach me **haydenhayes214@gmail.com**
 
