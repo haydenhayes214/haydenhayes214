@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hayden Hayes</h1>
 <h3 align="center">I am CS Student Currently at the University of Texas at Dallas</h3>
 
-- I’m currently working my One Piece progress tracker and studying for my AWS SAA certification
   
 - I have a big interest in Software Engineering and experience with Python, Java, C++, JavasSript, HTML/CSS, and TypeScript
   
